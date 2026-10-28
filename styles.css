@@ -56,6 +56,7 @@ p{margin:0 0 16px}p:last-child{margin-bottom:0}
 .topic-list{columns:2;column-gap:32px}.topic-list,.criteria-list{padding-left:23px;margin:12px 0 0}
 .topic-list li{break-inside:avoid;padding:4px 0}.criteria-list li{margin-bottom:10px}
 .past-list{padding-left:23px;margin:0}.past-list li{padding:4px 0}
+.country-flag{display:inline-block;width:24px;height:18px;vertical-align:middle;font-size:0;line-height:0;overflow:hidden;background-size:contain;background-repeat:no-repeat;background-position:center}
 footer{text-align:center;padding:23px 20px 29px;border-top:1px solid var(--line);font-size:13px;color:var(--muted);background:var(--background)}
 footer p{margin:0 0 6px}
 .primary-nav a[aria-current="page"]{background:#194e5e;box-shadow:inset 0 -3px #b6dcdd}
